@@ -6,7 +6,8 @@ namespace Les_console1_git
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello2 World!");
+            Console.WriteLine("Hello master");
+            Console.Read();
         }
     }
 }
